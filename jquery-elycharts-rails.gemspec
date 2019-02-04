@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Toshiyuki HINA"]
   spec.email         = ["thina@yourinventit.com"]
 
-  spec.summary       = %q{Integrate jquery.migrate assets in your Rails asset pipeline}
-  spec.description   = %q{Wrap jquery.migrate and provide the assets as a gem}
+  spec.summary       = %q{Integrate elycharts assets in your Rails asset pipeline}
+  spec.description   = %q{Wrap elycharts and provide the assets as a gem}
   spec.homepage      = "https://github.com/inventit/jquery-elycharts-rails"
   spec.license       = "MIT"
 
