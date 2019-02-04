@@ -3,8 +3,8 @@ require "jquery/elycharts/rails/version"
 module Jquery
   module Elycharts
     module Rails
-      class Error < StandardError; end
-      # Your code goes here...
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end

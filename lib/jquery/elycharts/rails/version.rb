@@ -1,7 +1,7 @@
 module Jquery
   module Elycharts
     module Rails
-      VERSION = "0.1.0"
+      VERSION = "2.1.4"
     end
   end
 end
